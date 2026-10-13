@@ -1,0 +1,8 @@
+approvers:
+- tooling-owners
+- tech-leads
+reviewers:
+- tooling-reviewers
+- tooling-owners
+labels:
+- area/tooling
